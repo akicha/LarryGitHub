@@ -5,3 +5,4 @@
 * Larry Plotter y El prisionero del Firewall
 * Larry Plotter y El Malware del fuego
 * Larry Plotter y El Orden de Unix
+* Larry Plotter y El Misterio del Hacker
